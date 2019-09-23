@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Neil</first_name>
+	<last_name>Oberholzer</last_name>
+	<phone_number>098 765 4321</phone_number>
+	<notes>Programming</notes>
+</contact>
+<contact>
+	<first_name>MonkeyD.</first_name>
+	<last_name>Luffy</last_name>
+	<phone_number>099 888 7777</phone_number>
+	<notes>I want meat</notes>
+</contact>
+<contact>
+	<first_name>Bruce</first_name>
+	<last_name>Wayne</last_name>
+	<phone_number>911</phone_number>
+	<notes>Nanananananana</notes>
+</contact>
+<contact>
+	<first_name>Buzz</first_name>
+	<last_name>Lightyear</last_name>
+	<phone_number>019 987 6789</phone_number>
+	<notes>To infinity and beyond</notes>
+</contact>
+</contacts>
